@@ -5,6 +5,7 @@ public class Main {
 
         String mySchoolNumber;
 
+        //can use year of birth
         final int NUM = 29;
 
         String word = " school";
