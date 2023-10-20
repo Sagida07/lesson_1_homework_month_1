@@ -22,6 +22,8 @@ public class Main {
             System.out.println("Вы сохранили 0");
         }
 
+        //дз на сообразительность
+        
         System.out.println("Введите ваше имя: ");
         Scanner run = new Scanner(System.in);
         String name = run.nextLine();
